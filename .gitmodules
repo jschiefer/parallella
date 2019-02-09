@@ -1,6 +1,6 @@
 [submodule "parallella-fpga"]
 	path = parallella-fpga
-	url = https://github.com/peteasa/parallella-fpga.git
+	url = https://github.com/jschiefer/parallella-fpga.git
 [submodule "examples"]
 	path = examples
 	url = https://github.com/peteasa/examples.git
